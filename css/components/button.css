@@ -1,0 +1,28 @@
+.btn-blue {
+	background-color:  #4A69BB;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto Slab', sans-serif;
+}
+
+.btn-blue:hover {
+	background-color: #46B3E6;
+	color: white;
+}
+
+.btn-hidden {
+	background-color: white;
+	color: rgb(0,0,0);
+	font-size: 18px;
+	font-family:'Roboto Slab', sans-serif;
+	font-weight: bold;
+	padding-left: 20px;
+ 	flex-grow: 1;
+}
+
+.btn-hidden:hover {
+	background-color: white;
+	color: #46B3E6;
+}
